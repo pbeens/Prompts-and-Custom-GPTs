@@ -11,6 +11,8 @@
 - [Ontario De-streamed SNC1W Science Specialist](https://chatgpt.com/g/g-vsSOjjuIB-ontario-de-streamed-snc1w-science-specialist)
 - [Ontario A&E: Growing Success Companion](https://chatgpt.com/g/g-679ece308b3c8191bfb3510455270abf-ontario-a-e-growing-success-companion)
 - [Ontario New Teachers Math Proficiency (MPT) Guide](https://chatgpt.com/g/g-Fnqk53R76-ontario-new-teachers-math-proficiency-mpt-guide)
+- [Assignment Strengthener](https://chatgpt.com/g/g-6921ca06cf208191b9f8374abc30f632-assignment-strengthener)
+- [Special Education Resources](https://chatgpt.com/g/g-67566fa29e208191a182ecee61f9927a-special-education-resources)
 
 ## 2. Programming, Coding & Technical Tools
 
@@ -52,11 +54,7 @@
 - [Classroom What-If Machine](https://chatgpt.com/g/g-6899259c49848191b6de00850124784b-classroom-what-if-machine)
 - [TeachAI Guide](https://chatgpt.com/g/g-Zo9a0riCw-teachai-guide)
 
-## 7. Special Education & Advocacy
-
-- [Special Education Resources](https://chatgpt.com/g/g-67566fa29e208191a182ecee61f9927a-special-education-resources)
-
-## 8. Creative, Engagement, and Social Media Tools
+## 7. Creative, Engagement, and Social Media Tools
 
 - [That’s Punny! (Joke Creator)](https://chatgpt.com/g/g-AWyWgwqkl-that-s-punny-joke-creator)
 - [Peter’s Visionary Debaters](https://chatgpt.com/g/g-j7VppiEeO-peter-s-visionary-debaters)
@@ -66,7 +64,7 @@
 - [Peter’s Blog Post Creator](https://chatgpt.com/g/g-96XsvJ16z-peter-s-blog-post-creator)
 - [Peter’s Image Generator with Alt Text](https://chatgpt.com/g/g-ZuFype4oS-peter-s-image-generator-with-alt-text)
 
-## 9. Obsidian & Knowledge Management
+## 8. Obsidian & Knowledge Management
 
 - [Obsidian Notes](https://chatgpt.com/g/g-6887932a58dc81919c58c3f763224f4c-obsidian-notes)
 - [Peter’s Callysto Colab Button Generator](https://chatgpt.com/g/g-ZgDyS5EfL-peter-s-callysto-colab-button-generator)
