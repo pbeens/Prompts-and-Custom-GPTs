@@ -64,6 +64,7 @@
 - [Presenter Thanks](https://chatgpt.com/g/g-rE36FJXp9-presenter-thanks)
 - [Peter’s Blog Post Creator](https://chatgpt.com/g/g-96XsvJ16z-peter-s-blog-post-creator)
 - [Peter’s Image Generator with Alt Text](https://chatgpt.com/g/g-ZuFype4oS-peter-s-image-generator-with-alt-text)
+- [#SilentSunday](https://chatgpt.com/g/g-692c66d15b3481918834b4c0894deab4-silentsunday)
 
 ## 8. Obsidian & Knowledge Management
 
