@@ -2,6 +2,7 @@
 
 ## 1. Ontario Curriculum & Education Tools
 
+- [Ontario ICD2O Resource Developer](https://chatgpt.com/g/g-692cfc8b91048191a49c189bfc577554-icd2o-resource-developer)
 - [Ontario ICS Assessment](https://chatgpt.com/g/g-r6d5SNGnf-ontario-ics-assessment)
 - [Ontario TEJ Computer Tech Specialist](https://chatgpt.com/g/g-67e563fd0af08191972e8450346dfb22-ontario-tej-computer-tech-specialist)
 - [Ontario Math 1–8 Curriculum Specialist](https://chatgpt.com/g/g-eztZegWff-ontario-math-1-8-curriculum-specialist)
